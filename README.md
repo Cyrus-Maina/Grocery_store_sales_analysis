@@ -45,6 +45,8 @@ These questions will be answered by our analysis on the company's data.
 6. Kilo wise, Flower/Leaf Vegetables had the most kilos sold followed by capsicum. Solanum and Aquatic tubers had the least kilos sold
   This insight will help strategize on efficient asupply chain e.g., does solanum and aquatic tubers take so much container/storage space   during shipping that it costs us more money compared to little returns generated  from these categories? Much container/storage space     could then be given to Flower/Leaf Vegetables and capsicum.
    
-7. The fastest moving items are Wuhu Green Pepper(69,945 pieces) sold and Broccoli(58,906) whereas the slowest moving items are Hericium,    Black Mushroom both in edible mushroom category.Perhaps the store having high sales in other types of mushrooms could choose to drop      these two.
+7. The fastest moving items are Wuhu Green Pepper(69,945 pieces) sold and Broccoli(58,906) whereas the slowest moving items are Hericium,    Black Mushroom both in edible mushroom category.Perhaps the store having high sales in other types of mushrooms could choose to drop these two.
+
+8. Returned goods percetage share is 0.05% of the total goods. This means 5 of every 100 items are returns.The store may want to have a look at this and strategize on how to reduce that.
 
 Such beautiful insights will go along way in helping the Chinese grocery store make data-driven decisions on how to maximise sales, increase profits and cut costs effectively.
